@@ -10,7 +10,7 @@ Escrever(db)
 st.title("CUIDADO COM O SARRADOR")
 
 # Use st.header("") para adicionar um CABEÇALHO ao seu Web app
-st.header("Hejheheheh! Prof. Massaki")
+st.header("COOKIE É BOM!")
 
 # Use st.subheader("") para adicionar um SUB CABEÇALHO ao seu Web app
 st.subheader("Sub Cabeçalho")
